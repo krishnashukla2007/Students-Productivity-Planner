@@ -1,0 +1,1 @@
+import{r as e}from"./AuthContext-B3homWVv.js";var t=e();function n({title:e,body:n}){return(0,t.jsxs)(`div`,{className:`glass-card empty-state`,children:[(0,t.jsx)(`h3`,{children:e}),(0,t.jsx)(`p`,{className:`muted`,children:n})]})}export{n as t};

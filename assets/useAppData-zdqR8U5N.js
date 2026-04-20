@@ -1,0 +1,1 @@
+import{c as e,d as t}from"./AuthContext-B3homWVv.js";import{t as n}from"./index-C5eCC2ln.js";var r=t(e(),1);function i(){return(0,r.useContext)(n)}export{i as t};
